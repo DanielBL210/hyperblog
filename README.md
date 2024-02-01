@@ -9,5 +9,6 @@ A incredible blog to the course of [Github](https:Github.com/" Github") from [Pl
 * The tru love for the good practices
 * Tricks very crazy from teacher
 * The Multple personalities of Freddy
+* Created by incredible team
 
 And like a friendly reminder: **This readme.md is not a joke**. Designed to the example. if you are here DO NOT TAKE SERIOUSLY, and go to the course
