@@ -8,7 +8,7 @@ A incredible blog to the course of [Github](https:Github.com/" Github") from [Pl
 * The workflow of Github
 * The tru love for the good practices
 * Tricks very crazy from teacher
-* The Multple personalities of Freddy
+* The Multiple personalities of Freddy
 * Created by incredible team
 * Include examples in Windows, Linux and Mac
 * Available for all ages
